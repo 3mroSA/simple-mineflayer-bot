@@ -1,3 +1,8 @@
+## UPDATE
+I have made a new mineflayer bot that supports multiple accounts and lots more commands
+check that out instead 
+
+
 # Minecraft Bot
 
 A basic Minecraft bot built with Mineflayer that connects to a server and supports simple commands made by me (3mro)
