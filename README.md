@@ -1,6 +1,6 @@
 ## UPDATE
 I have made a new mineflayer bot that supports multiple accounts and lots more commands
-check that out instead 
+check that out instead, but you can still use this if you'd like a more simpler one
 
 
 # Minecraft Bot
